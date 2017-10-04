@@ -7,6 +7,9 @@ import android.widget.TextView;
 import hangman.groupone.projects.aucsc.hangman.Main;
 import hangman.groupone.projects.aucsc.hangman.R;
 
+/**
+ * Handles the actions taken when the CustomText button is pressed.
+ */
 public class CustomText implements View.OnClickListener {
     /*---Data---*/
     private final Main mainInstance;
